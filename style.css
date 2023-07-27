@@ -1,0 +1,35 @@
+p {
+  /* font-size: 50px; */
+}
+
+#fancy {
+  color: red;
+}
+
+.classname {
+  /* styles */
+}
+
+a [href="www.google.com"]{
+  
+}
+
+#special-div > p  {
+  color: blue;
+}
+
+#special-div p{
+  font-size: 32px;
+}
+
+p + p {
+  background-color: magenta;
+}
+
+#special-div > p:last-child {
+  font-size: 100px;
+}
+
+p .secondCLassName {
+  font-size: 100px;
+}
